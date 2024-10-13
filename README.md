@@ -11,3 +11,9 @@
 [Прогон тест-кейсов раздела Корзина](https://drive.google.com/file/d/1e9WpdFgu_fHb_Z6LfAvS5hQ28S3Xrnhy/view?usp=sharing) 
 
 [Прогон тест-кейсов раздела Оплата](https://drive.google.com/file/d/1MIEmuJQr_vym6jmkTbsxi0Y-tJ-8A8p6/view?usp=sharing) 
+
+[Меняем в заппросе количество товаров на 500](https://drive.google.com/file/d/1C_m0m1f1ea8-PfWvxHf0GXjBujhrPM5K/view?usp=sharing)
+
+[Сервер возвращает статус-код 403](https://drive.google.com/file/d/1J7QiL8SYxywPKRm1WDfUbQVJw1EFE9K1/view?usp=sharing)
+
+[Подмена url](https://drive.google.com/file/d/1J7QiL8SYxywPKRm1WDfUbQVJw1EFE9K1/view?usp=sharing)
