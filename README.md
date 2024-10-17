@@ -12,6 +12,8 @@
 
 [Прогон тест-кейсов раздела Оплата](https://drive.google.com/file/d/1MIEmuJQr_vym6jmkTbsxi0Y-tJ-8A8p6/view?usp=sharing) 
 
+# Перехват трафика через Charles Proxy
+
 [Меняем в запросе количество товаров на 500](https://drive.google.com/file/d/1C_m0m1f1ea8-PfWvxHf0GXjBujhrPM5K/view?usp=sharing)
 
 [Сервер возвращает статус-код 403](https://drive.google.com/file/d/1J7QiL8SYxywPKRm1WDfUbQVJw1EFE9K1/view?usp=sharing)
